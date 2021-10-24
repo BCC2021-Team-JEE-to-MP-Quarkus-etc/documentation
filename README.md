@@ -1,3 +1,3 @@
-![logo](assets/bcc-2021-quarkus.png)
+![logo](assets/bcc-2021-quarkus-banner.svg)
 # Documentation
 
