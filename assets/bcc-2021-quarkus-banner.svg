@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="bcc-2021-quarkus-banner.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 157 51.653877"
+   height="51.653877mm"
+   width="157mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="900"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="196.00156"
+     inkscape:cx="589.41776"
+     inkscape:zoom="0.93178952"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-23.606737,-109.64413)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       id="g1085">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:0.258634"
+         id="rect946"
+         width="157"
+         height="51.653877"
+         x="23.606737"
+         y="109.64413" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ecfcfb;fill-opacity:1;stroke:none;stroke-width:0.430495"
+         x="43.057297"
+         y="100.78767"
+         id="text12"
+         transform="scale(0.68582782,1.4580919)"><tspan
+           y="100.78767"
+           x="43.057297"
+           sodipodi:role="line"
+           id="tspan73">{        }</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00dafc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="101.55888"
+         y="131.00873"
+         id="text77"><tspan
+           sodipodi:role="line"
+           id="tspan115"
+           x="101.55889"
+           y="131.00873"><tspan
+   style="fill:#00f900;fill-opacity:1"
+   id="tspan952">CodeCamp</tspan> <tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan984">2021</tspan></tspan><tspan
+           sodipodi:role="line"
+           id="tspan117"
+           x="101.55888"
+           y="148.6476">Team <tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan986">Q</tspan>uarkus</tspan></text>
+    </g>
+  </g>
+</svg>
