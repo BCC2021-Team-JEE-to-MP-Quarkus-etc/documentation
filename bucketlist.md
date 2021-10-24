@@ -12,4 +12,4 @@
 ## Learn Quarkus
 
 - [ ] [Quarkus.io quickstarts](https://github.com/quarkusio/quarkus-quickstarts/tree/main/getting-started)
-- [ ] 
+- [ ] [Implementing Microservicilities with Quarkus and MicroProfile](https://www.infoq.com/articles/microservicilities-quarkus/)
