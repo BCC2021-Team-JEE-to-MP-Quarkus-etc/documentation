@@ -13,3 +13,4 @@
 
 - [ ] [Quarkus.io quickstarts](https://github.com/quarkusio/quarkus-quickstarts/tree/main/getting-started)
 - [ ] [Implementing Microservicilities with Quarkus and MicroProfile](https://www.infoq.com/articles/microservicilities-quarkus/)
+- [ ] [Using Quarkus as an Alternative for Spring Boot](https://www.mitrais.com/news-updates/using-quarkus-as-an-alternative-for-spring-boot/)
