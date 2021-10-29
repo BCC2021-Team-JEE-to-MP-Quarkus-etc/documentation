@@ -17,3 +17,7 @@
 _Technologies supporting MicroProfiles_
 * Wildfly Bootable-Jar
 * Quarkus
+
+## Agenda
+* 01.11.2021 - Ramp-up
+* 04.11.2021 - Planned quarkus hands-on session with [Thorben Jägers (RedHat)](https://github.com/j1cken)
