@@ -1,7 +1,7 @@
 # Bucketlist
 
 ## Setup Infrastructure
-- [ ] OKD4 Namespace
+- [x] OKD4 Namespace
 - [ ] Local-Setup (Maven 3.8+, JDK11+, GralVM)
 
 
