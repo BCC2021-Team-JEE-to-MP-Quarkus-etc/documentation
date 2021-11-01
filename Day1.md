@@ -57,15 +57,21 @@ Added in [native-build.yml](../quarkus-starter/.github/workflows/native-build.ym
 
 ### Docker Build
 
-- started using distroless native version
+- We started using native-distroless version ([../quarkus-starter/src/main/docker/Dockerfile.native-distroless](../quarkus-starter/src/main/docker/Dockerfile.native-distroless))
 
 ### Docker Push
 
 - The push to the GitHub Container-Registry can be achieved by using standard `docker push` command.  
 - The registry-name consists of `<registry>/<owner>/<imagename>`. Where '<owner>' should be the organization- or user-name in lowercase letters.
 
-
 ## Deploy App to the Baloise incubator OKD4-Cluster
+
+Add Application into the `Chart.yaml` and `values.yaml`
+See our [OKD4 Deployment Repo](https://github.com/baloise-incubator/code-camp-apps/tree/master/mp-wf-quarkus)
+
+### Test deployed application
+
+[quarkus-quickstart hello path](https://quarkus-starter.apps.okd.baloise.dev/hello)
 
 ## Conclusions
 
