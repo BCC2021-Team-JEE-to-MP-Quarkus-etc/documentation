@@ -12,19 +12,19 @@ In the dev-watch mode, changes to the layer-specs automatically rebuilds the app
 The roundtrip time in dev-watch mode, providing updates to the current running server, feels a bit lazy compared
 to the quarkus quick-start example.
 
-# Build Dockerfile, integrate in GitHub Build-Pipeline
+## Build Dockerfile, integrate in GitHub Build-Pipeline
 
 The [ci-build.yml](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/wf-starter/blob/main/.github/workflows/ci-build.yml) provides a similar ci-workflow that builds up 
 a docker-image provided via 
 [GitHub Container Registry](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/wf-starter/pkgs/container/wf-starter)
 
-# Add Database-Connectivity
+## Add Database-Connectivity
 
 The already defined postgresql-datasource was failing to be connected during server-start. This step provides a locally
 provided PostgreSQL instance startet with [Docker Compose](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/wf-starter/blob/main/docker-compose.yaml)
 This uses the [Dockerfile](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/wf-starter/blob/main/src/main/docker/Dockerfile) (no `docker build` required in advance).
 
-# Publish to Openshift
+## Publish to Openshift
 
 Provide new PostgreSQL instance using simple 
 [deployment, service, pvc and init-config yamls](https://github.com/baloise-incubator/code-camp-apps/tree/master/mp-wf-quarkus/templates)
