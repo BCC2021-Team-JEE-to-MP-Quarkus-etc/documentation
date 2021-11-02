@@ -18,7 +18,7 @@ Start with the local setup DWP quarkus quick-starter project
 
 ## Further steps
 
-See Readme [../quarkus-starter/README.md](../quarkus-starter/README.md)
+See Readme [../quarkus-starter/README.md](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/blob/main/README.md)
 
 ## After building native image via Docker-Container, we're able to build the Dockerimage
 ```
@@ -27,7 +27,7 @@ docker run --rm -p 8080:8080 -it quarkus-starter:dev
 ```
 
 ## Create GitHub Build Pipeline
-GitHub Action to build native quarkus app via docker-container-build, added in [native-build.yml](../quarkus-starter/.github/workflows/native-build.yml)
+GitHub Action to build native quarkus app via docker-container-build, added in [native-build.yml](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/blob/main/.github/workflows/native-build.yml)
 
 ```
 - name: Build with Maven
@@ -36,7 +36,7 @@ GitHub Action to build native quarkus app via docker-container-build, added in [
 
 ## Login, Build and Push Image to GitHub Container Registry
 Influenced by [using-github-container-registry-in-practice](https:///using-github-container-registry-in-practice-295677c6f65e)
-Added in [native-build.yml](../quarkus-starter/.github/workflows/native-build.yml)
+Added in [native-build.yml](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/blob/main/.github/workflows/native-build.yml)
 ```
     - name: Docker login to Container-Registry
       uses: docker/login-action@v1
@@ -57,7 +57,7 @@ Added in [native-build.yml](../quarkus-starter/.github/workflows/native-build.ym
 
 ### Docker Build
 
-- We started using native-distroless version ([../quarkus-starter/src/main/docker/Dockerfile.native-distroless](../quarkus-starter/src/main/docker/Dockerfile.native-distroless))
+- We started using native-distroless version ([../quarkus-starter/src/main/docker/Dockerfile.native-distroless](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/blob/main/src/main/docker/Dockerfile.native-distroless))
 
 ### Docker Push
 
