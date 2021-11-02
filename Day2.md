@@ -25,3 +25,14 @@ provided PostgreSQL instance startet with [Docker Compose](https://github.com/BC
 This uses the [Dockerfile](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/wf-starter/blob/main/src/main/docker/Dockerfile) (no `docker build` required in advance).
 
 # Publish to Openshift
+
+Provide new PostgreSQL instance using simple 
+[deployment, service, pvc and init-config yamls](https://github.com/baloise-incubator/code-camp-apps/tree/master/mp-wf-quarkus/templates)
+
+Add wf-starter app to [Chart.yaml](https://github.com/baloise-incubator/code-camp-apps/blob/master/mp-wf-quarkus/Chart.yaml)
+and [values.yaml](https://github.com/baloise-incubator/code-camp-apps/blob/master/mp-wf-quarkus/values.yaml) in our
+[OKD4 Deployment Repo](https://github.com/baloise-incubator/code-camp-apps/tree/master/mp-wf-quarkus)
+
+### Test deployed application
+
+[wf-quickstart hello path](https://wf-starter.apps.okd.baloise.dev/hello)
