@@ -7,7 +7,7 @@
 
 ## Learn Wildfly 25 Microprofile
 - [ ] [Wildfly quickstarts](https://github.com/wildfly/quickstart)
-- [ ]
+- [x] [Work with examples from Wildfly-Jar Maven-Plugin](https://github.com/wildfly-extras/wildfly-jar-maven-plugin/tree/6.0.0.Final/examples/jaxrs)
 
 ## Learn Quarkus
 
