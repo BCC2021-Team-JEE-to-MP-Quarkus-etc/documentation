@@ -36,3 +36,10 @@ and [values.yaml](https://github.com/baloise-incubator/code-camp-apps/blob/maste
 ### Test deployed application
 
 [wf-quickstart hello path](https://wf-starter.apps.okd.baloise.dev/hello)
+
+# Persistence PoC with quarkus
+The code can be found in the quarkus-starter project on branch _persistence_
+[quarkust-starter_persistence](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/tree/persistence)
+
+Detailed Information can be found here: [README_persistence.md](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/blob/persistence/README_persistence.md)
+
