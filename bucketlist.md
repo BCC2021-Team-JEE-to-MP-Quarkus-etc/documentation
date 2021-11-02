@@ -2,7 +2,7 @@
 
 ## Setup Infrastructure
 - [x] OKD4 Namespace
-- [ ] Local-Setup (Maven 3.8+, JDK11+, GralVM)
+- [x] Local-Setup (Maven 3.8+, JDK11+, GralVM)
 
 
 ## Learn Wildfly 25 Microprofile
