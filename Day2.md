@@ -43,3 +43,13 @@ The code can be found in the quarkus-starter project on branch _persistence_
 
 Detailed Information can be found here: [README_persistence.md](https://github.com/BCC2021-Team-JEE-to-MP-Quarkus-etc/quarkus-starter/blob/persistence/README_persistence.md)
 
+# Questions / Conclusions
+
+## Quarkus persistence entity-key mapped to null
+
+* How to debug
+* The delivered book entities do not have mapped the primary-key `id` to the member with Type `Integer`.
+  => Debugging to analyze, whether the id isn't readed from persistence or the id isn't mapped to json.
+* JpaBook Entity ohne PanacheEntity
+
+
