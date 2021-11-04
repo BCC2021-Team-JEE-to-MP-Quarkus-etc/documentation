@@ -38,3 +38,14 @@ Red Hat, Principal Specialist Solution Architect
 * Growing ecosystem supported by curated documentation of how to implement Quarkus-Extensions. 
 * Quarkus-Extensions for Spring Data and more is, or will be available.
 * Keycloak will be ported to Quarkus-Native distribution.
+
+## Workshop Notes
+
+* [Slides](https://drive.google.com/file/d/1_p8p4BP2_Sml1rvY52MMcYdwUp23bK4n/view?usp=sharing)
+* [Red Hat Summit Vortrag Lufthansa Technik](https://cloud.redhat.com/learn/resources/videos/red-hat-summit-2020)
+* [Quarkus CLI Client](https://quarkus.io/guides/cli-tooling)
+* [GithubRepo](https://github.com/j1cken/greeting-quarkus)
+* [Flyway in Quarkus](https://quarkus.io/guides/flyway)
+* [Templating Engine](https://quarkus.io/guides/qute)
+* [Github Actions & Openshift](https://cloud.redhat.com/blog/deploying-to-openshift-using-github-actions)
+
