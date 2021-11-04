@@ -23,5 +23,5 @@ _Technologies supporting MicroProfiles_
 * 01.11.2021 - Ramp-up. See [Day one](Day1.md)
 * 02.11.2021 - Deep dives. See [Day two](Day2.md)
 * 03.11.2021 - Variations. See [Day three](Day3.md)
-* 04.11.2021 - Quarkus hands-on session with [Thorben Jägers (RedHat)](https://github.com/j1cken)
+* 04.11.2021 - Quarkus hands-on session with [Thorben Jägers (RedHat)](https://github.com/j1cken). See [Day four](Day4.md)
 * 05.11.2021 - Reflection. See [Day five](Day5.md)
