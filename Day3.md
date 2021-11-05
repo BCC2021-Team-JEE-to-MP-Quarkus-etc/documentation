@@ -15,6 +15,10 @@ Activated debug-agent works.  BUT: If the dev-watch mode is used, every code-cha
 
 Implemented standard-jpa to serve book-list.
 
+## WildFly Bullet points
+
+See [WildFlyAssessment](WildFlyAssessment.md) 
+
 # Persistence PoC with quarkus
 
 ## Debugging:
