@@ -16,3 +16,4 @@
 - [ ] [Implementing Microservicilities with Quarkus and MicroProfile](https://www.infoq.com/articles/microservicilities-quarkus/)
 - [ ] [Using Quarkus as an Alternative for Spring Boot](https://www.mitrais.com/news-updates/using-quarkus-as-an-alternative-for-spring-boot/)
 - [x] [Red-Hat Summit 2020](https://cloud.redhat.com/learn/resources/videos/red-hat-summit-2020)
+- [x] [http://www.cheat-sheets.org/saved-copy/quarkus-cheat-sheet.pdf](http://www.cheat-sheets.org/saved-copy/quarkus-cheat-sheet.pdf)
